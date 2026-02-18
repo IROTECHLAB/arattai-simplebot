@@ -36,7 +36,7 @@ A Python bot that responds to commands in Arattai chat (Zoho's social platform).
 
 **We Welcome Contributors!**
 
-Want to contribute? Check our [CONTRIBUTORS.md](https://github.com/IROTECHLAB/arattai-bot/blob/main/CONTRIBUTORS.md) file.
+Want to contribute? Check our [CONTRIBUTORS.md](https://github.com/IROTECHLAB/arattai-simplebot/blob/main/CONTRIBUTORS.md) file.
 
 ---
 
@@ -67,8 +67,8 @@ Want to contribute? Check our [CONTRIBUTORS.md](https://github.com/IROTECHLAB/ar
 
 ```bash
 # Clone from IROTECHLAB
-git clone https://github.com/IROTECHLAB/arattai-bot
-cd arattai-bot
+git clone https://github.com/IROTECHLAB/arattai-simplebot
+cd arattai-simplebot
 
 # Install requirements
 pip install requests
@@ -325,10 +325,10 @@ By using this bot, you agree to take full responsibility for your Zoho/Arattai a
 
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Ironmanyt00/)
 - **GitHub:** [github.com/IROTECHLAB](https://github.com/IROTECHLAB)
-- **Repository:** [github.com/IROTECHLAB/arattai-bot](https://github.com/IROTECHLAB/arattai-bot)
-- **Issues:** [Report bugs here](https://github.com/IROTECHLAB/arattai-bot/issues)
-- **Contributions:** [Pull Requests welcome](https://github.com/IROTECHLAB/arattai-bot/pulls)
-- **Contributors List:** [CONTRIBUTORS.md](https://github.com/IROTECHLAB/arattai-bot/blob/main/CONTRIBUTORS.md)
+- **Repository:** [github.com/IROTECHLAB/arattai-bot](https://github.com/IROTECHLAB/arattai-simplebot)
+- **Issues:** [Report bugs here](https://github.com/IROTECHLAB/arattai-simplebot/issues)
+- **Contributions:** [Pull Requests welcome](https://github.com/IROTECHLAB/arattai-simplebot/pulls)
+- **Contributors List:** [CONTRIBUTORS.md](https://github.com/IROTECHLAB/arattai-simplebot/blob/main/CONTRIBUTORS.md)
 
 ---
 
@@ -343,5 +343,5 @@ By using this bot, you agree to take full responsibility for your Zoho/Arattai a
 
 **⚠️ USE AT YOUR OWN RISK - NOT OFFICIAL ZOHO PRODUCT ⚠️**
 
-**© 2026 IROTECHLAB** • [GitHub](https://github.com/IROTECHLAB) • [Contributors Welcome](https://github.com/IROTECHLAB/arattai-bot/blob/main/CONTRIBUTORS.md)
+**© 2026 IROTECHLAB** • [GitHub](https://github.com/IROTECHLAB) • [Contributors Welcome](https://github.com/IROTECHLAB/arattai-simplebot/blob/main/CONTRIBUTORS.md)
 </div>
