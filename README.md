@@ -325,7 +325,7 @@ By using this bot, you agree to take full responsibility for your Zoho/Arattai a
 
 - **Instagram** [Instagram](https://www.instagram.com/Ironmanyt00/)
 - **GitHub:** [github.com/IROTECHLAB](https://github.com/IROTECHLAB)
-- **Repository:** [github.com/IROTECHLAB/arattai-bot](https://github.com/IROTECHLAB/arattai-simplebot)
+- **Repository:** [github.com/IROTECHLAB/arattai-simplebot](https://github.com/IROTECHLAB/arattai-simplebot)
 - **Issues:** [Report bugs here](https://github.com/IROTECHLAB/arattai-simplebot/issues)
 - **Contributions:** [Pull Requests welcome](https://github.com/IROTECHLAB/arattai-simplebot/pulls)
 - **Contributors List:** [CONTRIBUTORS.md](https://github.com/IROTECHLAB/arattai-simplebot/blob/main/CONTRIBUTORS.md)
