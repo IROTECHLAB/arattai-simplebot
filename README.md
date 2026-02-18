@@ -309,21 +309,21 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## 🔒 Legal Notice
 
-```Arattai is a product of **ZOHO CORPORATION**. This bot is NOT affiliated with, authorized by, or endorsed by Zoho Corporation or Arattai. All trademarks belong to their respective owners. References to Arattai/Zoho are for identification purposes only.
+Arattai is a product of **ZOHO CORPORATION**. This bot is NOT affiliated with, authorized by, or endorsed by Zoho Corporation or Arattai. All trademarks belong to their respective owners. References to Arattai/Zoho are for identification purposes only.
 
-By using this bot, you agree to take full responsibility for your Zoho/Arattai account.```
+By using this bot, you agree to take full responsibility for your Zoho/Arattai account.
 
 ---
 
 ## 📊 SEO & Search Keywords
 
-```Arattai bot, Zoho Arattai bot, Arattai automation, Arattai Python bot, Arattai reverse engineered, Arattai API bot, Arattai chat bot, Arattai auto responder, Arattai self bot, Arattai command bot, how to make Arattai bot, Arattai bot tutorial, Arattai bot GitHub, Arattai bot Python, Arattai bot Android, Arattai cookie extractor, Arattai Reqable guide, Zoho social platform, Arattai messaging bot, IROTECHLAB Arattai, Arattai unofficial bot, Arattai chat ID finder, how to get Arattai chat ID, Arattai chid parameter, Reqable Arattai tutorial, Arattai sendofficechatmessage, Arattai bot 2026, Arattai Python script, Arattai open source```
+`Arattai bot, Zoho Arattai bot, Arattai automation, Arattai Python bot, Arattai reverse engineered, Arattai API bot, Arattai chat bot, Arattai auto responder, Arattai self bot, Arattai command bot, how to make Arattai bot, Arattai bot tutorial, Arattai bot GitHub, Arattai bot Python, Arattai bot Android, Arattai cookie extractor, Arattai Reqable guide, Zoho social platform, Arattai messaging bot, IROTECHLAB Arattai, Arattai unofficial bot, Arattai chat ID finder, how to get Arattai chat ID, Arattai chid parameter, Reqable Arattai tutorial, Arattai sendofficechatmessage, Arattai bot 2026, Arattai Python script, Arattai open source`
 
 ---
 
 ## 📱 Connect with IROTECHLAB
 
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Ironmanyt00/)
+- **Instagram** [Instagram](https://www.instagram.com/Ironmanyt00/)
 - **GitHub:** [github.com/IROTECHLAB](https://github.com/IROTECHLAB)
 - **Repository:** [github.com/IROTECHLAB/arattai-bot](https://github.com/IROTECHLAB/arattai-simplebot)
 - **Issues:** [Report bugs here](https://github.com/IROTECHLAB/arattai-simplebot/issues)
